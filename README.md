@@ -55,13 +55,14 @@ It has a total of 30 Feautures and 569 entries.
 
 1. Data Cleaning
 2. Corelation-based Feature Reduction
-3. Feature Scaling ( StandardScaler)
-4. Model Training (Logistic Regression)
-5. Model Evaluation ( Accuracy, Precision, Recall, F1, ROC-AUC)
-6. Visualization ( Corelation heatmap, Confusion Matrix)
+3. Feature Selection
+4. Feature Scaling ( StandardScaler)
+5. Model Training (Logistic Regression)
+6. Model Evaluation ( Accuracy, Precision, Recall, F1, ROC-AUC)
+7. Visualization ( Corelation heatmap, Confusion Matrix)
 
 ## Results
-- Accuracy: 98.2%
-- Precision: 99%
-- Recall: 97%
-- ROC-AUC: 0.998
+- Accuracy: 98.8%
+- Precision: 98.4%
+- Recall: 98.4%
+- ROC-AUC: 0.997
