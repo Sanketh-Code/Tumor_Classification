@@ -51,7 +51,7 @@ It has a total of 30 Feautures and 569 entries.
 5. **Concavity**: Captures indentation or flods along the nucleus edge. Malignant cells have deep indentations caused by uncontrolled structural deformation. High concavity high indicate high chances of cell being cancerous.
 6. **symmetry**: Measures how evenly shaped the nucleus is. Malignant cells are more unevnen. 
 
-## Pipline overview
+## Pipeline overview
 
 1. Data Cleaning
 2. Corelation-based Feature Reduction
