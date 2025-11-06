@@ -44,7 +44,7 @@ It has a total of 30 Feautures and 569 entries.
 
 ## Relevance of different features.
 
-1. **Raduis**: Malignant cells usually have englarged nucli. Larger radius -> high cancer risk
+1. **Radius**: Malignant cells usually have englarged nucli. Larger radius -> high cancer risk
 2. **Perimeter**: Malignant cells have uneven edges. increase in the perimeter might indicate that the cells might be cancerous.
 3. **area**: Total pixel area of the nucleus. Malignant cells have larger areas.
 4. **smoothness**: Measures how smooth or jagged the boundary is. Malignant cells have irregular bumpy edges due to disorganized growth. Low smoothness -> more likely to be malignant.
